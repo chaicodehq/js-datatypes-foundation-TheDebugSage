@@ -104,5 +104,5 @@ Customer: ${customerName.toUpperCase()}
 ${lines.join("\n")}
 ---
 Total: Rs.${total}
-Items: ${itemCount}`;
+Items: ${itemCount} `;
 }
